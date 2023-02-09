@@ -1,0 +1,47 @@
+#move-to-top {
+    margin-bottom: 20px;
+}
+
+.woocommerce .woocommerce-breadcrumb {
+    margin-top: 20px;
+}
+
+.woocommerce ul.products li.product .button {
+    background-color: #F08519;
+	color: white;
+	font-size: small;
+	margin-top: -10px;
+}
+
+.woocommerce div.product form.cart .button {
+    background-color: #F08519;
+}
+
+.woocommerce .cart .button, .woocommerce .cart input.button {
+     background-color: #F08519;
+	color: white;
+}
+
+.widget li {
+    list-style-type: disclosure-closed;
+}
+
+.woocommerce #review_form #respond .form-submit input {
+    background-color: orange;
+}
+
+.woocommerce .star-rating span {
+    color: orange;
+}
+
+.wp-pagenavi {
+    margin-bottom: 20px;
+}
+
+.copyrights {
+    margin-bottom: 60px;
+}
+
+.nav-justified .nav-item {
+    margin-left: -20px;
+}
