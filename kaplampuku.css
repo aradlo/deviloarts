@@ -7,23 +7,12 @@
 }
 
 .woocommerce ul.products li.product .button {
-    background-color: #F77D0B;
-	color: white;
-	    font-size: small;
 	margin-top: -10px;
 }
 
-.woocommerce div.product form.cart .button {
-    background-color: #F77D0B;
-}
-
 .woocommerce .cart .button, .woocommerce .cart input.button {
-     background-color: #F08519;
+     background-color: red;
 	color: white;
-}
-
-.widget li {
-    list-style-type: disclosure-closed;
 }
 
 .woocommerce #review_form #respond .form-submit input {
@@ -44,4 +33,16 @@
 
 .nav-justified .nav-item {
     margin-left: -20px;
+}
+
+.widget li {
+    list-style-type: disclosure-closed;
+}
+
+.sp-wcsp-slider-area #sp-wcsp-slider-section-907 .sp-wcsp-cat-item .sp-wcsp-shop-now {
+    font-size: 11px;
+}
+
+.sp-wcsp-slider-area #sp-wcsp-slider-section-907 .sp-wcsp-cat-item .sp-wcsp-cat-details .sp-wcsp-cat-details-content {
+    padding: 5px 16px 16px 16px;
 }
