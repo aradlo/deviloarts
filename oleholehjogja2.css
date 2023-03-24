@@ -1,0 +1,53 @@
+#move-to-top {
+    margin-bottom: 20px;
+}
+
+.woocommerce .woocommerce-breadcrumb {
+    margin-top: 20px;
+}
+
+.woocommerce ul.products li.product .button {
+	margin-top: -10px;
+}
+
+.woocommerce .cart .button, .woocommerce .cart input.button {
+     background-color: red;
+	color: white;
+}
+
+.woocommerce #review_form #respond .form-submit input {
+    background-color: orange;
+}
+
+.woocommerce .star-rating span {
+    color: orange;
+}
+
+.wp-pagenavi {
+    margin-bottom: 20px;
+}
+
+.copyrights {
+    margin-bottom: 60px;
+}
+
+.nav-justified .nav-item {
+    margin-left: -20px;
+}
+
+.widget li {
+    list-style-type: disclosure-closed;
+}
+
+.sp-wcsp-slider-area #sp-wcsp-slider-section-907 .sp-wcsp-cat-item .sp-wcsp-cat-details .sp-wcsp-cat-details-content {
+    padding: 5px 16px 16px 16px;
+}
+
+.woocommerce #content table.cart td.actions, .woocommerce table.cart td.actions, .woocommerce-page #content table.cart td.actions, .woocommerce-page table.cart td.actions {
+    display: none;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+    color: #f8f9fa;
+    background-color: #cc1818;
+}
